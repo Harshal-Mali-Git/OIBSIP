@@ -1,0 +1,316 @@
+Customer_ID,Name,Gender,Age,City,Signup_Date,Purchase_Amount,Rating
+1001,Vikram, Male,53.0,Mumbai ,2023-06-14,"$1,138.82",1.0
+1002,Rahul,F,29.0,Pune,20/04/2023,604.40,2.0
+1003,Vikram,F,54.0,Nagpur,"Jun 25, 2022",1084.60,4.0
+1004,Karan, Male,55.0,MUMBAI,2023-02-13,1441.36,4.0
+1005,Sneha,female,49.0, Nashik,23/09/2022,$835.08,5.0
+1006,Karan,FEMALE ,250.0,MUMBAI,"Oct 22, 2022",425.14,3.0
+1007,Anjali,FEMALE ,32.0,Mumbai ,2022-03-20,1252.69,1.0
+1008,Pooja,male,51.0,Nagpur,09/05/2022,587.76,3.0
+1009,Sneha,Male,24.0,pune,"Aug 29, 2022",$774.50,4.0
+1010,Rohan,M,47.0,Pune,2022-07-24,651.14,1.0
+1011,Priya,M,61.0,Nagpur,22/03/2023,95000.00,1.0
+1012,Anjali,FEMALE ,63.0, Nashik,"Jul 25, 2022",569.48,3.0
+1013,Anjali, Male,32.0, Nashik,2022-06-23,"$1,365.22",3.0
+1014,Aarav,Male,33.0,pune,29/10/2022,296.97,3.0
+1015,Aarav,Female,47.0,pune,"Feb 02, 2023",,3.0
+1016,Sneha,FEMALE ,36.0,MUMBAI,2023-12-01,1359.58,4.0
+1017,Aarav,male,52.0,delhi,24/12/2022,$955.15,4.0
+1018,Pooja,FEMALE ,27.0, Nashik,"Sep 04, 2022",1351.67,3.0
+1019,Neha,Male,25.0,Nagpur,2022-08-14,1408.28,5.0
+1020,Aarav,Female,20.0,MUMBAI,10/11/2022,315.72,3.0
+1021,Neha,FEMALE ,40.0, Nashik,"Oct 11, 2023",$365.78,4.0
+1022,Neha,M,28.0,MUMBAI,2022-09-18,810.20,4.0
+1023,Neha,M,32.0,Pune,22/06/2022,705.01,2.0
+1024,Rahul,M,61.0,Mumbai ,"Feb 11, 2023",1260.25,4.0
+1025,Neha,F,56.0,Pune,2023-06-26,$464.62,4.0
+1026,Anjali,M,57.0,delhi,26/10/2023,2619.58,3.0
+1027,Neha, Male,45.0,,"Jul 16, 2022",699.85,3.0
+1028,Neha,Female,23.0,Pune,2023-09-15,1813.45,3.0
+1029,Anjali,Female,53.0,Pune,22/08/2023,$278.90,3.0
+1030,Vikram,female,46.0,pune,"Sep 21, 2022",928.07,4.0
+1031,Anjali,female,60.0,pune,2022-08-23,1072.71,2.0
+1032,Sneha,female,40.0,Delhi,06/07/2022,596.31,1.0
+1033,Vikram,female,26.0,Delhi,"Aug 11, 2022","$1,040.22",3.0
+1034,Anjali, Male,45.0, Nashik,2023-09-12,958.79,5.0
+1035,Neha,FEMALE ,39.0,Mumbai ,06/08/2022,496.78,2.0
+1036,Priya,FEMALE ,48.0, Nashik,"Dec 12, 2022",,2.0
+1037,Vikram,F,35.0,Nagpur,2023-10-17,$353.13,2.0
+1038,Sneha,female,32.0,Nagpur,25/04/2023,558.60,5.0
+1039,Priya,M,23.0,pune,"Apr 02, 2022",135.54,1.0
+1040,Sneha, Male,63.0,Mumbai ,2022-02-21,489.85,3.0
+1041,Sneha,Female,53.0, Nashik,06/06/2022,"$1,291.97",3.0
+1042,Pooja,male,39.0,Nagpur,"Aug 30, 2023",1106.08,3.0
+1043,,FEMALE ,29.0,pune,2022-06-08,553.10,2.0
+1044,Sneha,male,,Nagpur,08/08/2022,1508.78,4.0
+1045,Sneha,FEMALE ,37.0,Nagpur,"Jan 14, 2023","$1,076.91",5.0
+1046,Rohan,female,47.0,pune,2022-12-13,2235.75,3.0
+1047,Pooja,Male,22.0,Pune,22/02/2022,1003.71,5.0
+1048,Pooja,Male,26.0,MUMBAI,"May 19, 2022",571.37,1.0
+1049,Sneha,Female,52.0,Mumbai ,2023-11-28,"$1,084.83",2.0
+1050,,Male,20.0,pune,22/10/2022,119.30,5.0
+1051,Aarav,male,-5.0,Pune,"Jul 14, 2022",352.43,4.0
+1052,Pooja,female,37.0,Pune,2023-08-03,,
+1053,Rahul, Male,18.0,MUMBAI,23/11/2022,$43.86,5.0
+1054,Rahul,Female,,Mumbai ,"Aug 03, 2023",,5.0
+1055,Anjali,FEMALE ,50.0,MUMBAI,2022-04-22,2300.75,2.0
+1056,Karan, Male,56.0,Mumbai ,28/11/2022,101.87,1.0
+1057,Neha,FEMALE ,,delhi,"Jul 22, 2023",$217.47,3.0
+1058,Vikram,F,52.0,pune,2023-06-22,708.65,3.0
+1059,Rahul,Female,57.0,Mumbai ,19/04/2023,859.62,3.0
+1060,Priya,female,23.0,delhi,"Nov 17, 2022",832.32,4.0
+1061,Vikram,M,,Pune,2023-07-31,$517.47,4.0
+1062,Priya,Female,60.0, Nashik,19/09/2022,424.97,4.0
+1063,Neha,Female,50.0, Nashik,"Apr 07, 2023",120.57,5.0
+1064,Priya,male,55.0,MUMBAI,2023-01-18,2145.96,4.0
+1065,Anjali, Male,52.0, Nashik,31/07/2022,"$1,608.71",1.0
+1066,Sneha,Male,59.0,MUMBAI,"May 21, 2022",374.80,1.0
+1067,Pooja,Male,59.0, Nashik,2023-01-08,638.10,5.0
+1068,Vikram,male,42.0,delhi,10/08/2022,527.30,5.0
+1069,Priya, Male,56.0,pune,"Dec 28, 2022",,4.0
+1070,Pooja,F,61.0,Pune,2023-05-10,248.79,2.0
+1071,Anjali, Male,31.0,Mumbai ,16/07/2023,2673.91,4.0
+1072,Anjali,male,20.0,delhi,"Jun 24, 2023",550.86,1.0
+1073,Karan,F,25.0,pune,2022-12-24,"$1,103.27",4.0
+1074,Pooja,M,19.0,Delhi,09/02/2022,565.31,2.0
+1075,Aarav,Female,38.0,Pune,"May 07, 2022",815.94,5.0
+1076,,Male,18.0,Mumbai ,2023-05-28,1834.22,4.0
+1077,Vikram,female,30.0,Pune,21/02/2023,$710.32,2.0
+1078,Priya,FEMALE ,29.0, Nashik,"Jul 27, 2023",120000.00,4.0
+1079,Pooja,F,51.0,Delhi,2022-12-10,377.03,4.0
+1080,Anjali,male,29.0,Nagpur,08/11/2022,1071.37,2.0
+1081,Pooja,female,62.0,Pune,"Jun 21, 2022","$1,677.85",2.0
+1082,Priya,M,26.0,pune,2022-02-13,1134.16,2.0
+1083,Karan, Male,63.0,pune,11/04/2022,378.63,3.0
+1084,Aarav, Male,44.0,Delhi,"Apr 24, 2023",493.18,2.0
+1085,Pooja,male,29.0,Nagpur,2023-02-10,$384.58,4.0
+1086,Pooja,female,19.0,Delhi,22/06/2022,841.11,3.0
+1087,Rahul, Male,32.0,Mumbai ,"Sep 11, 2022",568.79,
+1088,Sneha,FEMALE ,45.0, Nashik,2023-03-27,347.48,
+1089,Karan,F,23.0,pune,25/09/2022,$214.80,1.0
+1090,Priya,F,,pune,"Sep 21, 2022",385.90,5.0
+1091,Rahul,Male,23.0,delhi,2022-07-09,640.26,4.0
+1092,Priya,F,49.0,Nagpur,23/03/2023,1095.20,1.0
+1093,Neha,Female,22.0,MUMBAI,"Sep 16, 2023",$868.44,5.0
+1094,Karan,Male,18.0,MUMBAI,2022-06-30,1048.94,2.0
+1095,Rohan,male,,Delhi,23/07/2022,1530.48,4.0
+1096,Vikram,female,32.0,Nagpur,"Nov 30, 2022",890.32,2.0
+1097,Vikram,F,44.0,MUMBAI,2022-05-14,$161.90,2.0
+1098,Aarav,female,62.0,Nagpur,03/01/2023,541.52,1.0
+1099,Aarav,female,58.0,Delhi,"Sep 12, 2023",182.40,4.0
+1100,Neha,FEMALE ,43.0,delhi,2023-03-18,722.04,3.0
+1101,Karan,F,48.0,delhi,26/04/2022,$116.31,1.0
+1102,Rohan,M,56.0,Mumbai ,"May 23, 2022",621.42,
+1103,Vikram,F,,Delhi,2022-02-23,715.37,4.0
+1104,Neha,female,48.0, Nashik,05/11/2023,994.05,4.0
+1105,Karan,Male,28.0,Mumbai ,"Aug 31, 2022",$646.98,3.0
+1106,Vikram,Male,46.0, Nashik,2022-07-22,3071.64,1.0
+1107,Rahul,F,29.0,Nagpur,25/08/2023,454.41,4.0
+1108,Anjali,Female,26.0,pune,"Aug 03, 2022",1159.25,2.0
+1109,Aarav,female,53.0,Nagpur,2022-06-12,$446.52,3.0
+1110,Vikram,M,44.0,,29/06/2022,278.23,3.0
+1111,Rohan,male,35.0,,"Oct 05, 2022",449.98,2.0
+1112,Karan,male,19.0,MUMBAI,2022-02-17,164.15,5.0
+1113,Priya,Female,29.0,pune,25/03/2023,$746.18,4.0
+1114,Pooja,FEMALE ,,MUMBAI,"Oct 24, 2022",106.13,1.0
+1115,Karan,Female,40.0,Pune,2023-11-11,1169.82,3.0
+1116,Neha,Female,63.0,Delhi,25/06/2023,626.82,1.0
+1117,Vikram,female,60.0, Nashik,"Sep 27, 2022","$1,048.64",4.0
+1118,Aarav, Male,58.0, Nashik,2023-05-12,226.81,2.0
+1119,Vikram,Female,18.0, Nashik,19/07/2023,1729.15,2.0
+1120,Vikram,female,20.0,pune,"May 17, 2022",1462.36,2.0
+1121,Vikram,Female,999.0,pune,2022-04-22,"$1,277.95",1.0
+1122,Rohan,female,33.0,delhi,06/04/2022,588.63,1.0
+1123,Rohan,Female,57.0, Nashik,"Feb 01, 2022",1146.47,3.0
+1124,Priya,F,32.0,Nagpur,2022-08-13,623.82,4.0
+1125,Vikram,female,25.0,pune,10/07/2023,"$1,507.46",4.0
+1126,Priya,F,23.0,delhi,"Jun 22, 2023",111.15,2.0
+1127,Karan, Male,32.0,Delhi,2022-09-22,674.64,5.0
+1128,Rohan,male,47.0,Mumbai ,08/12/2022,1603.95,4.0
+1129,Vikram,female,23.0,Mumbai ,"Jun 22, 2023","$1,180.73",5.0
+1130,Pooja,Female,55.0,Delhi,2023-10-09,1222.78,1.0
+1131,Anjali,M,32.0, Nashik,17/07/2022,1150.75,1.0
+1132,Neha,male,32.0,Nagpur,"Apr 05, 2023",749.39,1.0
+1133,Karan,Male,,,2023-02-20,$293.35,4.0
+1134,Rahul,Female,58.0,Nagpur,11/03/2023,933.67,2.0
+1135,Aarav,FEMALE ,38.0,MUMBAI,"Jul 16, 2023",465.37,2.0
+1136,Karan,Male,55.0,MUMBAI,2023-06-22,533.20,3.0
+1137,Rohan,Female,32.0,Delhi,04/10/2022,$600.75,4.0
+1138,Sneha, Male,24.0, Nashik,"Jun 10, 2023",655.82,3.0
+1139,Pooja, Male,56.0,Pune,2022-02-08,281.61,2.0
+1140,Sneha,male,54.0,Delhi,29/08/2022,1072.25,2.0
+1141,Anjali,Male,53.0,pune,"Jun 02, 2022",$765.50,2.0
+1142,Vikram,F,59.0, Nashik,2022-06-29,1441.00,2.0
+1143,Priya,Male,41.0,Mumbai ,24/09/2023,2351.13,3.0
+1144,Rohan,M,27.0,Nagpur,"Nov 03, 2022",1126.61,2.0
+1145,Priya,Female,45.0, Nashik,2022-02-21,$720.80,3.0
+1146,Vikram,FEMALE ,44.0,Pune,09/12/2022,191.13,4.0
+1147,Aarav,Male,36.0,Nagpur,"Feb 18, 2022",641.69,4.0
+1148,Neha,F,48.0,Nagpur,2022-04-10,768.10,1.0
+1149,Anjali,female,30.0,Nagpur,26/09/2022,$820.27,4.0
+1150,Aarav,male,46.0, Nashik,"Nov 05, 2022",685.31,2.0
+1151,Pooja,FEMALE ,55.0,Nagpur,2022-06-12,431.93,4.0
+1152,Rohan,FEMALE ,22.0,Nagpur,24/03/2023,1247.81,
+1153,Sneha,Female,39.0,delhi,"Dec 14, 2022",$746.15,2.0
+1154,Vikram, Male,49.0,MUMBAI,2022-04-06,1357.77,
+1155,Anjali,female,20.0,Nagpur,30/07/2023,364.33,4.0
+1156,Karan, Male,47.0,delhi,"Apr 07, 2022",838.75,2.0
+1157,Anjali, Male,60.0,delhi,2022-09-09,,2.0
+1158,Karan,female,56.0, Nashik,02/05/2022,1490.95,4.0
+1159,Sneha,M,50.0,delhi,"Oct 23, 2023",244.49,4.0
+1160,Neha,male,55.0,MUMBAI,2022-07-18,617.87,1.0
+1161,Rahul,female,34.0,MUMBAI,30/08/2023,$498.05,3.0
+1162,Priya,male,33.0,MUMBAI,"Nov 05, 2023",1491.16,2.0
+1163,,FEMALE ,21.0,pune,2022-06-03,899.27,3.0
+1164,Priya, Male,51.0,Pune,19/01/2022,386.11,4.0
+1165,Sneha,male,32.0,Nagpur,"Jan 10, 2022",$650.34,1.0
+1166,Sneha,female,58.0,Nagpur,2022-05-09,443.45,1.0
+1167,Neha,Male,39.0,pune,08/10/2022,682.20,3.0
+1168,Rohan,male,59.0,Mumbai ,"Apr 26, 2022",470.01,5.0
+1169,Rahul,Female,24.0, Nashik,2023-11-01,$783.29,2.0
+1170,Neha, Male,25.0,Nagpur,29/11/2022,1499.79,1.0
+1171,Pooja, Male,34.0,Delhi,"Aug 17, 2023",2661.32,2.0
+1172,Pooja,F,19.0, Nashik,2022-01-11,1177.33,2.0
+1173,Aarav,female,,MUMBAI,03/04/2022,"$2,157.52",1.0
+1174,Karan,female,48.0,Nagpur,"Nov 17, 2022",1071.92,5.0
+1175,Rahul,Male,49.0, Nashik,2022-04-24,1123.95,4.0
+1176,Aarav,Female,28.0,Delhi,25/04/2022,930.39,4.0
+1177,Priya, Male,25.0,pune,"Jan 17, 2022",$627.26,5.0
+1178,Rohan,Female,44.0,MUMBAI,2022-07-08,48.20,4.0
+1179,Rohan,male,47.0,Delhi,19/06/2023,262.56,2.0
+1180,Rahul,male,62.0,MUMBAI,"Jul 09, 2023",555.41,1.0
+1181,Priya,F,60.0,Pune,2022-12-23,$878.99,1.0
+1182,Pooja,Male,35.0,pune,09/05/2022,297.67,2.0
+1183,Sneha, Male,25.0, Nashik,"Nov 11, 2022",652.97,4.0
+1184,Anjali, Male,29.0,Mumbai ,2023-03-08,,4.0
+1185,Vikram,female,,Delhi,14/04/2022,$596.12,1.0
+1186,Sneha,Female,39.0,Mumbai ,"Oct 12, 2022",675.98,2.0
+1187,,FEMALE ,64.0,Nagpur,2023-07-31,1008.88,5.0
+1188,Sneha,female,48.0,Pune,20/10/2022,505.44,2.0
+1189,Pooja,Female,45.0,MUMBAI,"Nov 26, 2022",$587.01,1.0
+1190,Karan,M,22.0,Delhi,2023-07-26,301.42,2.0
+1191,Sneha,Female,45.0,Nagpur,15/04/2023,480.54,2.0
+1192,Rahul,FEMALE ,35.0,Mumbai ,"Apr 23, 2022",324.79,3.0
+1193,Rohan,Male,57.0,delhi,2023-03-03,$890.02,3.0
+1194,Sneha,Male,24.0,Nagpur,09/10/2023,2349.49,1.0
+1195,Rahul,F,27.0,delhi,"May 29, 2022",2069.65,
+1196,Priya,M,49.0,Nagpur,2023-09-18,379.82,2.0
+1197,Rahul,FEMALE ,49.0, Nashik,15/02/2023,$918.18,2.0
+1198,Aarav,Male,57.0,pune,"Apr 13, 2023",692.54,5.0
+1199,Aarav, Male,42.0,Mumbai ,2022-08-20,100.98,
+1200,Priya,Male,35.0,pune,04/02/2022,52.01,2.0
+1201,Karan,Female,32.0,Mumbai ,"Jan 19, 2022",$357.63,4.0
+1202,Rahul, Male,35.0,Pune,2023-04-10,559.71,2.0
+1203,Rahul,Male,49.0,delhi,19/11/2023,166.90,5.0
+1204,Karan,F,43.0,pune,"Feb 25, 2023",253.78,3.0
+1205,Karan,F,31.0,Nagpur,2022-09-08,$281.66,2.0
+1206,Pooja,Female,28.0,delhi,25/06/2023,256.36,4.0
+1207,Pooja,Male,51.0,MUMBAI,"Oct 24, 2023",179.60,4.0
+1208,Aarav,female,29.0,Mumbai ,2022-05-30,514.81,4.0
+1209,Anjali,Female,27.0,delhi,14/03/2022,"$1,005.63",1.0
+1210,Sneha,FEMALE ,33.0,Mumbai ,"Oct 30, 2023",772.35,2.0
+1211,Priya,F,58.0,pune,2022-02-01,279.76,3.0
+1212,Neha,M,39.0,Pune,13/09/2023,547.50,2.0
+1213,Anjali,Male,,Delhi,"Apr 11, 2022",$644.35,3.0
+1214,Karan,female,21.0,,2022-03-22,77.48,2.0
+1215,Anjali,M,34.0,Nagpur,13/07/2022,1233.32,2.0
+1216,Aarav,F,53.0,pune,"Aug 09, 2022",335.56,3.0
+1217,Rahul,FEMALE ,54.0,Pune,2022-08-20,$177.81,5.0
+1218,,M,45.0,delhi,23/01/2022,2887.83,2.0
+1219,Rohan, Male,59.0,delhi,"Aug 21, 2023",242.31,4.0
+1220,Karan,female,32.0,Nagpur,2023-08-05,478.75,5.0
+1221,Sneha,female,25.0,Pune,22/04/2023,$326.07,1.0
+1222,Karan,FEMALE ,,delhi,"Oct 03, 2023",1235.87,5.0
+1223,Anjali,FEMALE ,, Nashik,2023-10-19,491.66,2.0
+1224,Vikram, Male,53.0,Nagpur,24/11/2023,143.90,1.0
+1225,Aarav, Male,60.0,,"Sep 20, 2022",$50.85,5.0
+1226,,male,24.0,Mumbai ,2023-03-05,391.38,1.0
+1227,Rahul,Female,41.0,Mumbai ,19/06/2023,2171.72,5.0
+1228,Pooja, Male,24.0,Pune,"Apr 12, 2023",231.40,2.0
+1229,Anjali,M,57.0,delhi,2023-07-08,"$1,461.15",4.0
+1230,Vikram,Male,24.0,Delhi,20/04/2023,,2.0
+1231,Priya,female,48.0,Delhi,"Sep 28, 2022",536.93,5.0
+1232,Neha,FEMALE ,21.0,,2023-02-04,756.19,4.0
+1233,Karan,F,52.0,,20/05/2022,$562.33,5.0
+1234,Anjali,FEMALE ,60.0, Nashik,"Oct 29, 2023",59.79,4.0
+1235,Rohan,F,52.0,Pune,2023-09-19,361.55,4.0
+1236,Aarav,male,30.0, Nashik,02/03/2023,787.29,5.0
+1237,Pooja,FEMALE ,57.0,Delhi,"Jun 22, 2023",$387.44,4.0
+1238,Rohan,Female,32.0,Mumbai ,2022-08-24,863.65,2.0
+1239,Karan,FEMALE ,53.0,,25/09/2022,160.73,2.0
+1240,Aarav,FEMALE ,57.0,Pune,"Dec 26, 2022",222.59,4.0
+1241,Karan, Male,40.0, Nashik,2022-07-04,,2.0
+1242,Priya,Male,47.0,delhi,14/01/2022,562.84,
+1243,Karan,FEMALE ,58.0,Pune,"Oct 04, 2022",1130.06,4.0
+1244,Rohan,F,26.0, Nashik,2023-05-22,463.82,1.0
+1245,Vikram,Female,18.0,Mumbai ,02/07/2022,$641.39,5.0
+1246,Vikram,FEMALE ,38.0,Pune,"May 01, 2023",577.62,5.0
+1247,, Male,26.0,delhi,2023-02-24,874.05,2.0
+1248,Sneha,female,59.0,,22/10/2022,867.98,2.0
+1249,Sneha,Male,58.0,Delhi,"May 23, 2023",$603.05,2.0
+1250,Sneha,F,35.0,Nagpur,2023-08-20,1140.53,5.0
+1251,Karan,male,32.0,Pune,29/10/2023,1626.34,1.0
+1252,Rahul,male,51.0,Nagpur,"Jun 13, 2023",349.96,1.0
+1253,Sneha,male,39.0,Delhi,2022-03-06,$374.62,4.0
+1254,Aarav,male,,MUMBAI,24/08/2022,360.44,3.0
+1255,Priya, Male,49.0,pune,"Jan 05, 2023",339.01,3.0
+1256,Priya,M,52.0,Pune,2022-02-24,355.95,5.0
+1257,Karan,Male,21.0,pune,20/10/2022,$646.29,4.0
+1258,Rahul,male,54.0,MUMBAI,"Apr 03, 2022",1060.23,1.0
+1259,Rohan,Female,43.0, Nashik,2023-01-23,345.43,2.0
+1260,Anjali,M,56.0,Delhi,09/05/2022,845.04,2.0
+1261,Vikram,M,57.0,pune,"Jul 09, 2022",,4.0
+1262,Vikram, Male,49.0,delhi,2022-08-01,2904.71,3.0
+1263,Rahul,FEMALE ,33.0,Mumbai ,13/11/2023,,4.0
+1264,Rohan,female,35.0,Nagpur,"Nov 10, 2022",1038.79,2.0
+1265,Karan, Male,52.0,Nagpur,2023-01-25,$255.78,3.0
+1266,Anjali,M,21.0, Nashik,12/10/2023,287.40,2.0
+1267,Rahul,male,28.0,delhi,"Jan 10, 2022",717.55,1.0
+1268,Rohan,M,42.0,Pune,2022-07-14,316.68,2.0
+1269,Pooja,Male,62.0,,25/10/2022,$585.37,3.0
+1270,Rahul, Male,53.0,Mumbai ,"Sep 22, 2023",1366.44,4.0
+1271,Vikram,male,56.0,Nagpur,2023-05-21,326.11,4.0
+1272,Rahul,Female,26.0,pune,22/04/2023,293.64,4.0
+1273,Karan,male,31.0,Mumbai ,"Sep 22, 2022",$690.52,1.0
+1274,Sneha, Male,30.0,Nagpur,2023-08-21,492.10,3.0
+1275,Rahul,male,53.0,Delhi,11/05/2022,962.06,1.0
+1276,Aarav,female,43.0,Pune,"Oct 10, 2022",545.52,1.0
+1277,Priya, Male,27.0,Nagpur,2022-09-07,$231.34,3.0
+1278,Rahul,female,53.0,MUMBAI,03/01/2022,54.88,4.0
+1279,Neha, Male,47.0,delhi,"Mar 06, 2022",786.39,2.0
+1280,Rohan, Male,60.0,delhi,2023-07-05,,1.0
+1281,Pooja,FEMALE ,44.0,delhi,23/10/2023,$664.11,5.0
+1282,Karan,F,23.0,Mumbai ,"Jun 21, 2022",91.15,3.0
+1283,Rohan,female,59.0,Mumbai ,2022-02-24,315.41,5.0
+1284,Rahul,female,26.0,Pune,10/04/2022,790.88,1.0
+1285,Pooja,FEMALE ,20.0,,"Feb 10, 2022","$1,245.26",5.0
+1286,Neha,Female,55.0,MUMBAI,2023-07-14,1266.71,5.0
+1287,Karan, Male,39.0,Mumbai ,03/02/2022,1442.73,5.0
+1288,Rahul, Male,48.0,pune,"Apr 26, 2023",594.23,1.0
+1289,Rahul,M,24.0,delhi,2023-07-10,"$1,189.93",4.0
+1290,Vikram,Female,51.0, Nashik,29/05/2022,,3.0
+1291,Neha,F,37.0,Mumbai ,"Jun 10, 2022",493.78,1.0
+1292,Rahul, Male,64.0,Mumbai ,2022-07-07,410.52,5.0
+1293,Aarav,Male,47.0,Mumbai ,16/06/2023,$304.43,5.0
+1294,Vikram,Male,62.0,Pune,"Oct 20, 2023",,5.0
+1295,Pooja,male,55.0,Nagpur,2023-06-13,626.04,4.0
+1296,Rohan,Female,57.0, Nashik,07/07/2022,323.13,1.0
+1297,Karan,male,22.0,Delhi,"May 17, 2023",$546.82,4.0
+1298,Vikram,female,54.0,Pune,2023-05-07,2042.03,
+1299,Anjali,female,46.0,MUMBAI,24/10/2022,153.85,4.0
+1300,Sneha, Male,36.0,pune,"Apr 01, 2022",161.60,3.0
+1190,Karan,M,22.0,Delhi,2023-07-26,301.42,2.0
+1124,Priya,F,32.0,Nagpur,2022-08-13,623.82,4.0
+1186,Sneha,Female,39.0,Mumbai ,"Oct 12, 2022",675.98,2.0
+1214,Karan,female,21.0,,2022-03-22,77.48,2.0
+1107,Rahul,F,29.0,Nagpur,25/08/2023,454.41,4.0
+1128,Rohan,male,47.0,Mumbai ,08/12/2022,1603.95,4.0
+1177,Priya, Male,25.0,pune,"Jan 17, 2022",$627.26,5.0
+1074,Pooja,M,19.0,Delhi,09/02/2022,565.31,2.0
+1276,Aarav,female,43.0,Pune,"Oct 10, 2022",545.52,1.0
+1243,Karan,FEMALE ,58.0,Pune,"Oct 04, 2022",1130.06,4.0
+1267,Rahul,male,28.0,delhi,"Jan 10, 2022",717.55,1.0
+1148,Neha,F,48.0,Nagpur,2022-04-10,768.10,1.0
+1300,Sneha, Male,36.0,pune,"Apr 01, 2022",161.60,3.0
+1059,Rahul,Female,57.0,Mumbai ,19/04/2023,859.62,3.0
+1123,Rohan,Female,57.0, Nashik,"Feb 01, 2022",1146.47,3.0
